@@ -1,4 +1,4 @@
-## Hi there 👋
+
 ![My GitHub Stats](https://github-stats-extended-frontend-beige-nine.vercel.app/api?username=arhamshah800)
 <!--
 **arhamshah800/arhamshah800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
