@@ -1,9 +1,8 @@
 ## Hi there 👋
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-  ![My GitHub Stats](https://github-stats-extended-frontend-beige-nine.vercel.app/api?username=arhamshah800)
 </p>
-
+![My GitHub Stats](https://github-stats-extended-frontend-beige-nine.vercel.app/api?username=arhamshah800)
 <!--
 **arhamshah800/arhamshah800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
